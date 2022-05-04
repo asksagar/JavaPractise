@@ -128,6 +128,7 @@ public class ArrayPractise {
 			System.out.println(a24[5]);
 			
 		// **********  24 completed	*********
+			// end of array
 			
 	}
 }
